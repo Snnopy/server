@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="/user/show/" method="post">
+        {% csrf_token %}
+        <p>
+            <lable>用户名</lable><input type="text" name="uname"/>
+        </p>
+        <p>
+            <input type="submit" value="查询"/>
+        </p>
+
+    </form>
+</body>
+</html>

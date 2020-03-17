@@ -1,0 +1,73 @@
+[
+{
+  "title": "KFC",
+  "x": 409,
+  "y": 51,
+  "width": 392,
+  "height": 162,
+  "color": "rgba(220, 169, 105, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/KFC.png"
+}
+,
+{
+  "title": "UEscalator",
+  "x": 409,
+  "y": 213,
+  "width": 302,
+  "height": 107,
+  "color": "rgba(225, 215, 155, 0.1)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/Escalator.png"
+},
+{
+  "title": "McDonald's",
+  "x": 409,
+  "y": 320,
+  "width": 392,
+  "height": 140,
+  "color": "rgba(220, 169, 105, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/McDonald's.png"
+}
+,
+{
+  "title": "Louis Vuitton",
+  "x": 243,
+  "y": 533,
+  "width": 99,
+  "height": 275,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/LV.png"
+}
+,
+{
+  "title": "7-ELEVEn",
+  "x": 502,
+  "y": 533,
+  "width": 146,
+  "height": 150,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/7-11.png"
+}
+,
+{
+  "title": "中国银行",
+  "x": 684,
+  "y": 846,
+  "width": 117,
+  "height": 179,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/BOC.png"
+}
+
+]

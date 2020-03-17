@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="/user/reset/" method="post">
+        {% csrf_token %}
+        <p>
+            <lable>手机号</lable><input type="text" name="uphone"/>
+        </p>
+        <p>
+            <lable>密&emsp;码</lable><input type="password" name="upwd"/>
+        </p>
+        <p>
+            <input type="submit" value="设置"/>
+        </p>
+
+    </form>
+</body>
+</html>

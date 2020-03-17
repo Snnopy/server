@@ -1,0 +1,75 @@
+[
+
+{
+  "title": "UNIQLO",
+  "x": 0,
+  "y": 284,
+  "width": 171,
+  "height": 286,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/UNIQLO.png"
+}
+,
+{
+  "title": "Stairs",
+  "x": 0,
+  "y": 871,
+  "width": 119,
+  "height": 223,
+  "color": "rgba(225, 215, 155, 0.1)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/Stairs.png"
+}
+,
+{
+  "title": "Starbucks",
+  "x": 243,
+  "y": 51,
+  "width": 131,
+  "height": 193,
+  "color": "rgba(220, 169, 105, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/Starbucks.png"
+}
+,
+{
+  "title": "Escalator",
+  "x": 387,
+  "y": 1025,
+  "width": 297,
+  "height": 103,
+  "color": "rgba(225, 215, 155, 0.1)",
+  "textcolor": "black",
+  "bordercolor": "rgba(220, 169, 105, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/Escalator.png"
+}
+,
+{
+  "title": "CHANEL",
+  "x": 297,
+  "y": 1128,
+  "width": 450,
+  "height": 47,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/CHANEL.png"
+}
+,
+{
+  "title": "Nike",
+  "x": 886,
+  "y": 0,
+  "width": 194,
+  "height": 352,
+  "color": "rgba(230, 110, 250, 0.2)",
+  "textcolor": "black",
+  "bordercolor": "rgba(230, 110, 250, 1)",
+  "imageurl": "http://192.168.1.106:8000/static/images/Nike.png"
+}
+
+]
