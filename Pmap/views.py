@@ -90,5 +90,6 @@ def reset_view(request):
 
 
 '''
+运行本地服务器
 python manage.py runserver 192.168.1.106:8000
 '''
